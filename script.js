@@ -363,8 +363,7 @@ contactForm.addEventListener("submit", event => {
         return;
     }
 
-    // এখানে preventDefault() নেই
-    // তাই FormSubmit-এ form submit হবে
+    
 
 });
 
